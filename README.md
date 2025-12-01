@@ -26,9 +26,12 @@ Bitte lies achtsam und pausiere, wenn es dir nicht guttut.
 
 ```
 .
+├─ _layouts/                   # Statische Dateien für die Website
+│  └─ default.html             #
+│
 ├─ assets/                     # Statische Dateien für die Website
 │  └─ css/
-│     └─ style.scss            # Custom-Styles: Layout, Typografie, Farben
+│  └  └─ style.scss            # Custom-Styles: Layout, Typografie, Farben
 │
 ├─ stories/                    # Kurzgeschichten (Single Source of Truth)
 │  ├─ index.md                 # Übersicht der Leseproben
