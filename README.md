@@ -44,7 +44,7 @@ Bitte lies achtsam und pausiere, wenn es dir nicht guttut.
 
 Wenn du mich kontaktieren möchtest, nutze bitte am besten den Kontaktweg über mein GitHub-Profil.
 
-## Lizenz / Rechte
+## Lizenz und Rechte
 
 © Steven Illg — **alle Rechte vorbehalten**.
 
