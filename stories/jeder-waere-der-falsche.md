@@ -9,7 +9,7 @@ rights: "© 2014 Steven Illg. Alle Rechte vorbehalten."
 permalink: /stories/jeder-waere-der-falsche/
 ---
 
-[Zur Startseite](https://chijzay.github.io/short-stories-samples/) · [Alle Geschichten](https://chijzay.github.io/short-stories-samples/stories/)
+[Zur Startseite](https://chijzay.github.io/short-stories-samples/) · [Zurück zu den Geschichten](https://chijzay.github.io/short-stories-samples/stories/)
 
 # Jeder wäre der Falsche
 
@@ -158,6 +158,6 @@ _... warum wir?«_
 
 ---
 
-**Quelle:** Anthologie *„So vergeht die Zeit“ (2004–2014)*. <br/>
+**Quelle:** Anthologie *„So vergeht die Zeit“ (2004–2014)*. <br>
 **Hinweis zur Nutzung:** Diese Leseprobe ist **nicht** zur Weiterverbreitung oder Bearbeitung freigegeben. 
 Siehe [`LICENSE`](../LICENSE).
