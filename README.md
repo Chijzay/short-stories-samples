@@ -21,10 +21,9 @@ Einige Texte können sensible Themen berühren (z.B. psychische Belastung/Selbst
 
 ```
 /stories/
-  der-fiese-lehrer.md
-/read/
-  index.md
-  der-fiese-lehrer.md
+    der-fiese-lehrer.md
+    jeder-waere-der-falsche.md
+    /index.md
 /CITATION.cff
 /LICENSE
 /README.md
