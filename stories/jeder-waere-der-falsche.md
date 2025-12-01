@@ -13,7 +13,7 @@ permalink: /stories/jeder-waere-der-falsche/
 
 # Jeder wäre der Falsche
 
-<div class="story">
+<div class="story" markdown="1">
 
   Einfach überall. Überall ist Gummi. Vor mir, hinter
 mir, sogar links und rechts neben mir.
