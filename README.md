@@ -27,7 +27,7 @@ Bitte lies achtsam und pausiere, wenn es dir nicht guttut.
 ```
 .
 ├─ _layouts/                   # Statische Dateien für die Website
-│  └─ default.html             #  Standard-Layout, bindet CSS ein
+│  └─ default.html             # Standard-Layout, bindet CSS ein
 │
 ├─ assets/                     # Statische Dateien für die Website
 │  └─ css/
