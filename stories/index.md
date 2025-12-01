@@ -6,8 +6,9 @@ Jeder wäre der Falsche: 2011
 
 # Stories
 
-- [Der fiese Lehrer](./der-fiese-lehrer/)
-- [Jeder wäre der Falsche](./jeder-waere-der-falsche/)
+- [Der fiese Lehrer](./der-fiese-lehrer.md/)
+- [Jeder wäre der Falsche](./jeder-waere-der-falsche.md/)
+
 
 
 
