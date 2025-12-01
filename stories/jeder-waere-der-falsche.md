@@ -6,8 +6,10 @@ status: "Leseprobe"
 written: "Hamburg, 2011"
 language: "de"
 rights: "© 2014 Steven Illg. Alle Rechte vorbehalten."
+permalink: /stories/jeder-waere-der-falsche/
 ---
 
+[Startseite](/) · [Alle Stories](/stories/) · [LICENSE]({{ site.github.repository_url }}/blob/main/LICENSE)
 
 # Jeder wäre der Falsche
 
