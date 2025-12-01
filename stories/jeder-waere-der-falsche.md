@@ -13,7 +13,7 @@ permalink: /stories/jeder-waere-der-falsche/
 Diese Leseprobe ist **nicht** zur Weiterverbreitung oder Bearbeitung freigegeben. 
 Siehe [`LICENSE`](../LICENSE).
 
-[Startseite](https://chijzay.github.io/short-stories-samples/) · [Alle Geschichten](https://chijzay.github.io/short-stories-samples/stories/)
+[Zur Startseite](https://chijzay.github.io/short-stories-samples/) · [Alle Geschichten](https://chijzay.github.io/short-stories-samples/stories/)
 
 # Jeder wäre der Falsche
 
