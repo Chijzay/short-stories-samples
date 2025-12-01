@@ -7,7 +7,7 @@ title: Leseproben
     src="{{ site.baseurl }}/assets/img/cover.jpg"
     alt="Cover: So vergeht die Zeit"
     style="
-      max-width: 420px;
+      max-width: 320px;
       width: 100%;
       height: auto;
       border-radius: 16px;
@@ -31,3 +31,4 @@ Hier findest du ausgewählte Kurzgeschichten als Leseproben aus meiner Anthologi
 ---
 
 © Steven Illg — **alle Rechte vorbehalten** (siehe `LICENSE` im Repository)
+
