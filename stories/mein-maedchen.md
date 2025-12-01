@@ -2,8 +2,7 @@
 title: "Mein Mädchen"
 author: "Steven Illg"
 collection: '„So vergeht die Zeit“ – Kurzgeschichten Anthologie (2004–2014)'
-status: "Leseprobe"
-written: "Hamburg, ca. 2008"
+written: "Hamburg, 2008"
 language: "de"
 rights: "© 2014 Steven Illg. Alle Rechte vorbehalten."
 ---
