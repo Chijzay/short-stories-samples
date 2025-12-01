@@ -1,5 +1,3 @@
-
-
 # Ausgewählte Kurzgeschichten aus meiner Anthologie
 
 In diesem Repository veröffentliche ich eine kleine Auswahl an Kurzgeschichten als Schreibproben aus meiner Anthologie _„So vergeht die Zeit“ (2004–2014)_. Damit ergänze ich mein GitHub-Portfolio neben meinen technisch orientierten Projekten um Creative Writing.
@@ -31,7 +29,9 @@ Bitte lies achtsam und pausiere, wenn es dir nicht guttut.
 ├─ stories/                    # Kurzgeschichten (Single Source of Truth)
 │  ├─ index.md                 # Übersicht der Leseproben
 │  ├─ der-fiese-lehrer.md      
-│  └─ jeder-waere-der-falsche.md
+│  ├─ der-ring.md      
+│  ├─ jeder-waere-der-falsche.md
+│  └─ mein-meadchen.md
 │
 ├─ README.md                   # Projektübersicht, Links, Kontext, Rechte
 ├─ LICENSE                     # © Steven Illg – keine Weiterverwendung ohne Erlaubnis
