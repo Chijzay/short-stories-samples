@@ -1,3 +1,6 @@
+---
+title: Leseproben
+---
 
 # Kurzgeschichten
 
@@ -14,4 +17,5 @@ _„So vergeht die Zeit“_ (2004–2014)
 
 © Steven Illg — **alle Rechte vorbehalten** <br>
 (Siehe `LICENSE` im Repository.)
+
 
