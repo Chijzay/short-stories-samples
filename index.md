@@ -29,7 +29,3 @@ Hier veröffentliche ich ausgewählte Kurzgeschichten als Leseproben aus meiner 
 ---
 
 © Steven Illg — **alle Rechte vorbehalten** (siehe `LICENSE` im Repository)
-
-
-
-
