@@ -2,7 +2,6 @@
 title: "Der Ring"
 author: "Steven Illg"
 collection: '„So vergeht die Zeit“ – Kurzgeschichten Anthologie (2004–2014)'
-status: "Leseprobe"
 written: "Hamburg, ca. 2006 - 2007"
 language: "de"
 rights: "© 2014 Steven Illg. Alle Rechte vorbehalten."
