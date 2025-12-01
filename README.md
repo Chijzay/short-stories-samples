@@ -1,34 +1,24 @@
 # Kurzgeschichten (Auswahl) – „So vergeht die Zeit“
 
-In diesem Repository veröffentliche ich **drei Kurzgeschichten** als Leseproben aus meiner Kurzgeschichten-Anthologie **„So vergeht die Zeit“ (2004–2014)**, um neben meinen tech-orientierten Projekten auch meine **kreative Schreibkompetenz** zu zeigen.
+In diesem Repository veröffentliche ich drei Kurzgeschichten als Leseproben aus meiner Kurzgeschichten-Anthologie _„So vergeht die Zeit“ (2004–2014)_, um neben meinen tech-orientierten Projekten auch meine kreative Schreibkompetenz zu zeigen.
 
 ## Inhalte
 
 **Leseproben (Markdown):**
-- [Der fiese Lehrer](stories/01-der-fiese-lehrer.md)
-- [Der Ring](stories/02-der-ring.md)
-- [Ich teleportiere](stories/03-ich-teleportiere.md)
-
-> Hinweis: Du kannst die Titel/Dateinamen natürlich anpassen – wichtig ist, dass Links stabil bleiben.
+- [Jeder wäre der Falsche](stories/jeder-waere-der-falsche.md)
 
 ## Kontext
 
 Die Texte entstammen der Anthologie:
 - *Steven Illg – „So vergeht die Zeit“, Kurzgeschichten Anthologie 2004–2014*
 
-## Content Notes (kurz & fair)
-Einige Texte können sensible Themen berühren (z.B. psychische Belastung/Selbstverletzung o.Ä.).  
-Wenn dich so etwas triggert, lies bitte achtsam.
+## Content Notes
+Einige Texte können sensible Themen berühren (z.B. psychische Belastung/Selbstverletzung oder Ähnliches). Wenn dich so etwas triggert, lies bitte achtsam.
 
 ## Struktur
 
 - `stories/` – die Kurzgeschichten (Markdown)
 - `LICENSE` – Lizenzhinweise für Code und Texte
-
-## Lizenz
-
-- **Texte in `stories/`**: siehe Abschnitt „Creative Writing / Text“ in der `LICENSE`.
-- **Code (falls im Repo vorhanden)**: siehe Abschnitt „Software / Code“ in der `LICENSE`.
 
 ## Kontakt
 
