@@ -158,6 +158,9 @@ _... warum wir?«_
 
 ---
 
-**Quelle:** Anthologie *„So vergeht die Zeit“ (2004–2014)*. <br>
-**Hinweis zur Nutzung:** Diese Leseprobe ist **nicht** zur Weiterverbreitung oder Bearbeitung freigegeben. 
+**Quelle:**  <br>
+Anthologie *„So vergeht die Zeit“ (2004–2014)*.
+
+**Hinweis zur Nutzung:** <br> 
+Diese Leseprobe ist **nicht** zur Weiterverbreitung oder Bearbeitung freigegeben. 
 Siehe [`LICENSE`](../LICENSE).
