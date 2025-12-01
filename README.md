@@ -5,6 +5,8 @@ In diesem Repository veröffentliche ich drei Kurzgeschichten als Leseproben aus
 ## Inhalte
 
 **Leseproben (Markdown):**
+
+- [Der fiese Lehrer](stories/der-fiese-lehrer.md)
 - [Jeder wäre der Falsche](stories/jeder-waere-der-falsche.md)
 
 ## Kontext
@@ -15,7 +17,20 @@ Die Texte entstammen der Anthologie:
 ## Content Notes
 Einige Texte können sensible Themen berühren (z.B. psychische Belastung/Selbstverletzung oder Ähnliches). Wenn dich so etwas triggert, lies bitte achtsam.
 
-## Struktur
+## Projektstruktur
+
+```
+/stories/
+  der-fiese-lehrer.md
+/read/
+  index.md
+  der-fiese-lehrer.md
+/CITATION.cff
+/LICENSE
+/README.md
+/_config.yml
+/index.md
+```
 
 - `stories/` – die Kurzgeschichten (Markdown)
 - `LICENSE` – Lizenzhinweise für Code und Texte
