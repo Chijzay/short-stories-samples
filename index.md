@@ -6,16 +6,13 @@ title: Leseproben
 
 Willkommen! 
 
-Hier findest du ausgewählte Kurzgeschichten als Leseproben aus meiner Anthologie<br> 
+Hier findest du ausgewählte Kurzgeschichten als Leseproben aus meiner Anthologie <br> 
 _„So vergeht die Zeit“_ (2004–2014)
 
 **Zu den Kurzgeschichten:** 
 
-# **[Übersicht](./stories/)**
+# **[Inhaltsverzeichnis](./stories/)**
 
 ---
 
-© Steven Illg — **alle Rechte vorbehalten** <br>
-(Siehe `LICENSE` im Repository.)
-
-
+© Steven Illg — **alle Rechte vorbehalten** (Siehe `LICENSE` im Repository.)
