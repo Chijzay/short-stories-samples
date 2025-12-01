@@ -26,15 +26,15 @@ Bitte lies achtsam und pausiere, wenn es dir nicht guttut.
 .
 ├─ assets/                     # Statische Dateien für die Website
 │  └─ css/
-│     └─ style.scss            # Custom-Styles: „buchiger“ Look, Layout/Typografie/Farben
+│     └─ style.scss            # Custom-Styles: Layout, Typografie, Farben
 └─ stories/                    # Kurzgeschichten (Single Source of Truth)
 │  ├─ index.md                 # Übersicht der Leseproben
 │  ├─ der-fiese-lehrer.md      
 │  └─ jeder-waere-der-falsche.md
 ├─ README.md                   # Projektübersicht, Links, Kontext, Rechte
-├─ LICENSE                     # © Steven Illg – alle Rechte vorbehalten (keine Weiterverwendung ohne Erlaubnis)
-├─ CITATION.cff                # Zitierhinweise für das Repository (GitHub „Cite this repository“)
-├─ _config.yml                 # Jekyll/GitHub Pages Konfiguration (Theme, Permalinks, Metadaten)
+├─ LICENSE                     # © Steven Illg – keine Weiterverwendung ohne Erlaubnis
+├─ CITATION.cff                # Zitierhinweise für das Repository 
+├─ _config.yml                 # Jekyll und GitHub Pages Konfiguration
 └─ index.md                    # Startseite der GitHub-Pages-Website (Landingpage)
 ```
 
