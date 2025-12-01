@@ -17,7 +17,7 @@ Mein Name ist Hermann Winkler. Ich arbeite als Lehrer an der _Gesamtschule Mümm
 
 Ich stecke in diesem Schlamassel wegen einen meiner Schüler. Der Vorfall begann vor einer Woche.
 
-<p style="text-align: right;">
+<p class="right">
  _Montag, 13.September 2004 in Hamburg_
 </p>
 
@@ -119,4 +119,5 @@ Anthologie *„So vergeht die Zeit“ (2004–2014)*, Geschichte 1.
 **Hinweis zur Nutzung:** <br> 
 Diese Leseprobe ist **nicht** zur Weiterverbreitung oder Bearbeitung freigegeben. 
 Siehe [`LICENSE`](../LICENSE).
+
 
