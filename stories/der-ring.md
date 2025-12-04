@@ -62,7 +62,7 @@ Während sich mein Körper auflöste, las ich wieder und immer wieder die Gravur
 ---
 
 **Quelle:**  <br>
-Anthologie *„So vergeht die Zeit“ (2004–2014)*, Geschichte 5, 2006-2007.
+Anthologie *„So vergeht die Zeit“ (2004–2014)*, Geschichte 5, © 2006-2007.
 
 **Hinweis zur Nutzung:** <br> 
 Diese Leseprobe ist **nicht** zur Weiterverbreitung oder Bearbeitung freigegeben. 
