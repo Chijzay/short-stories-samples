@@ -57,7 +57,7 @@ Während sich mein Körper auflöste, las ich wieder und immer wieder die Gravur
 
 <br>
 
-&emsp; »Für meinen Sohn, Leon Mayer – † 5.Jan 1985«
+&emsp; _»Für meinen Sohn, Leon Mayer – † 5.Jan 1985«_
 
 </div>
 
