@@ -15,7 +15,7 @@ In diesem Repository veröffentliche ich eine kleine Auswahl an Kurzgeschichten 
 
 Die Texte sind Auszüge aus meiner Anthologie:
 
-- _Steven Illg – „So vergeht die Zeit“, Kurzgeschichten Anthologie (2004–2014)_
+- _Steven Illg – „So vergeht die Zeit“, Kurzgeschichten Anthologie (verfasst von 2004–2014)_
 
 ## Hinweis zu Inhalten
 
@@ -31,18 +31,24 @@ Bitte lies achtsam und pausiere, wenn es dir nicht guttut.
 │
 ├─ assets/                     # Statische Dateien für die Website
 │  └─ css/
-│     └─ style.scss            # Custom-Styles: Layout, Typografie, Farben
+│  │   └─ style.scss           # Custom-Styles: Layout, Typografie, Farben
+│  └─ img/
+│     └─ cover.jpg             # Buchcover der Printfassung
 │
 ├─ stories/                    # Kurzgeschichten (Single Source of Truth)
-│  ├─ index.md                 # Übersicht der Leseproben
 │  ├─ der-fiese-lehrer.md      
 │  ├─ der-ring.md      
+│  ├─ der-schatten-am-fenster.md
+│  ├─ der-zahn-von-loewe.md
+│  ├─ es-passierte-im-bus.md
+│  ├─ index.md                 # Übersicht der Leseproben
 │  ├─ jeder-waere-der-falsche.md
-│  └─ mein-meadchen.md
+│  ├─ mein-meadchen.md
+│  └─ vorwort.md
 │
-├─ README.md                   # Projektübersicht, Links, Kontext, Rechte
-├─ LICENSE                     # © Steven Illg – keine Weiterverwendung ohne Erlaubnis
 ├─ CITATION.cff                # Zitierhinweise für das Repository 
+├─ LICENSE                     # © Steven Illg – keine Weiterverwendung ohne Erlaubnis
+├─ README.md                   # Projektübersicht, Links, Kontext, Rechte
 ├─ _config.yml                 # Jekyll und GitHub Pages Konfiguration
 └─ index.md                    # Startseite der GitHub-Pages-Website
 ```
