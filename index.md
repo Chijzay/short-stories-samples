@@ -26,6 +26,7 @@ Hier veröffentliche ich ausgewählte Kurzgeschichten als Leseproben aus meiner 
 
 ---
 
-© Steven Illg 2004-2025 — **alle Rechte vorbehalten** (siehe [`LICENSE`](./LICENSE)** im Repository)
+© Steven Illg 2004-2025 — **alle Rechte vorbehalten** (siehe **[`LICENSE`](./LICENSE)** im Repository)
+
 
 
