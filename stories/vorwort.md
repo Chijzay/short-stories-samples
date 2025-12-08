@@ -27,6 +27,7 @@ Ich gebe gerne zu, dass ich nie die hellste Leuchte am Kronleuchter, beziehungsw
 
 Für das grammatikalische Thema der _»Satzlehre«_ erhielt ich in der sechsten Klasse dann endlich meine erste und wohlverdiente Einserzensur im Rahmen einer Klausur. Von da an setzte ich mich bewusst mit schriftlicher Sprache auseinander und schrieb meine ersten Texte, las gezielt die Literatur erfolgreicher Autoren, aber übte und feilte auch stets an meinem Schreibstil.
 
+<br>
 
 Der ernstzunehmende Wunsch ein Buch zu schreiben manifestierte sich jedoch nach der Fertigstellung meiner ersten und eher zufällig entstandenen Kurzgeschichte im Jahr 2004 – und heute, zehn Jahre später, kann ich dank moderner Technik, PDF-Dateien, Internet und digitaler Drucktechnologie mein eigenes Vorwort, in meinem eigenen Buch, mit meinen eigenen Kurzgeschichten lesen.
 
