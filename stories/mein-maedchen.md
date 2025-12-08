@@ -96,4 +96,4 @@ Anthologie *„So vergeht die Zeit“ (2004–2014)*, Geschichte 11, © 2008.
 
 **Hinweis zur Nutzung:** <br> 
 Diese Leseprobe ist **nicht** zur Weiterverbreitung oder Bearbeitung freigegeben. 
-Siehe [`LICENSE`](../LICENSE).
+Siehe **[`LICENSE`](../LICENSE)**.
