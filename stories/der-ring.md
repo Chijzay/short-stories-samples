@@ -55,7 +55,9 @@ Es wäre besser, wenn ich meine Bemerkung von eben korrigieren würde: Der Fund 
 
 Während sich mein Körper auflöste, las ich wieder und immer wieder die Gravur im Ring: 
 
-> »Für meinen Sohn, Leon Mayer – † 5.Jan 1985«
+<br>
+
+&emsp; »Für meinen Sohn, Leon Mayer – † 5.Jan 1985«
 
 </div>
 
